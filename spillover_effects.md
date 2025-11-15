@@ -6,4 +6,5 @@ Moreover, the pandemic itself disrupts conservation funding, environmental polic
 
 References & Further Reading 
 
-<a href="[https://pmc.ncbi.nlm.nih.gov/articles/PMC8580505/#cesec190]">The COVID-19 pandemic is intricately linked to biodiversity loss and ecosystem health</a>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8580505/#cesec190">The COVID-19 pandemic is intricately linked to biodiversity loss and ecosystem health</a>
+Lancet Planet Health
