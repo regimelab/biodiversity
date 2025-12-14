@@ -1,4 +1,3 @@
-The most accessible, or "low hanging fruit," approaches to address ecological and biodiversity issues in local California communities involve restoring native habitats, improving green spaces, and integrating biodiversity-friendly practices in agriculture and urban planning.[1][2][3]
 
 ### Habitat Restoration and Green Spaces
 Restoring riparian zones, wetlands, and native vegetation can quickly improve ecosystem services like water filtration, flood control, and wildlife habitat. Community-led projects to plant native trees, shrubs, and wildflowers in parks, schoolyards, and along streets can increase biodiversity and resilience, especially in historically underserved neighborhoods where green space is limited.[3][7][1]
