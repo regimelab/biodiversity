@@ -1,7 +1,3 @@
-This is an excellent, well‑structured overview of how to define and measure the **economic impact of biodiversity loss in California**. You’re essentially summarizing a multidisciplinary framework that links ecological change to economic outcomes, using both market and non‑market valuation. Here’s a concise synthesis and interpretation to help clarify and contextualize what the passage presents.
-
-***
-
 ### Core Concept
 
 The **economic impact of biodiversity loss** is defined as the change in the total (market + non‑market) economic value of goods and services that California’s ecosystems provide, caused by declines in species or habitat condition. It captures how biodiversity change translates into measurable costs for people, businesses, and governments—whether through reduced production, higher damage costs, or loss of welfare.
